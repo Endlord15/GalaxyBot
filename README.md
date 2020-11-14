@@ -1,2 +1,4 @@
 # GalaxyBot
-My Github bot Page
+Welcome to my Discord Bot's page!
+
+
