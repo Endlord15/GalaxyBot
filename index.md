@@ -1,37 +1,25 @@
 ## Welcome to GitHub Pages
+Hello and welcome to my bots site!
+Hosted on github.io!
 
-You can use the [editor on GitHub](https://github.com/Endlord15/GalaxyBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### THIS WHERE YOU CAN INVITE THE BOT!
 
 ```markdown
-Syntax highlighted code block
+Invite my bot to your server: https://discord.com/oauth2/authorize?client_id=776972860472164392&permissions=8&scope=bot
 
-# Header 1
-## Header 2
-### Header 3
+### Changelog
+```markdown
+Here is the changelog: (Currently the bot is currently being worked on!)
 
-- Bulleted
-- List
+### Social Media
 
-1. Numbered
-2. List
+Youtube: https://bit.ly/Endlord15
+New Twitter: https://twitter.com/Ender18813839
+Discord: https://discord.gg/PpNAePu
+Insta: https://instagram.com/Endlord15
+Hey I have a Twitch: https://twitch.tv/endlord15_yt
 
-**Bold** and _Italic_ and `Code` text
+### Support and Contact
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Endlord15/GalaxyBot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can contact the owner of this bot, USERNAME: Ender ඞ#4886
+Get some help on my discord: https://discord.gg/PpNAePu
