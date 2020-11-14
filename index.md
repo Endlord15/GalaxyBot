@@ -17,7 +17,7 @@ New Twitter: https://www.twitter.com/Ender18813839
 Discord: https://www.discord.gg/PpNAePu
 Insta: https://www.instagram.com/Endlord15
 Hey I have a Twitch: https://www.twitch.tv/endlord15_yt
-```markdown
+```
 ### Support and Contact
 
 You can contact the owner of this bot, USERNAME: Ender ඞ#4886
