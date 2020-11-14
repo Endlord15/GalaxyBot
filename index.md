@@ -4,19 +4,19 @@ Hello and welcome to my bots site!
 ### THIS WHERE YOU CAN INVITE THE BOT!
 
 Invite my bot to your server: 
-https://discord.com/oauth2/authorize?client_id=776972860472164392&permissions=8&scope=bot
+https://www.discord.com/oauth2/authorize?client_id=776972860472164392&permissions=8&scope=bot
 
 ### Changelog
 
 Here is the changelog: (Currently the bot is currently being worked on!)
 
 ### Social Media
-
-Youtube: https://bit.ly/Endlord15
-New Twitter: https://twitter.com/Ender18813839
-Discord: https://discord.gg/PpNAePu
-Insta: https://instagram.com/Endlord15
-Hey I have a Twitch: https://twitch.tv/endlord15_yt
+```markdown
+Youtube: https://www.bit.ly/Endlord15
+New Twitter: https://www.twitter.com/Ender18813839
+Discord: https://www.discord.gg/PpNAePu
+Insta: https://www.instagram.com/Endlord15
+Hey I have a Twitch: https://www.twitch.tv/endlord15_yt
 
 ### Support and Contact
 
