@@ -4,7 +4,7 @@ Hello and welcome to my bots site!
 ### THIS WHERE YOU CAN INVITE THE BOT!
 
 Invite my bot to your server: 
-[This bot is currently Unavalible]()
+This bot is currently Unavalible
 
 ### Changelog
 
