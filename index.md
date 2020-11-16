@@ -4,7 +4,7 @@ Hello and welcome to my bots site!
 ### THIS WHERE YOU CAN INVITE THE BOT!
 
 Invite my bot to your server: 
-https://www.discord.com/oauth2/authorize?client_id=776972860472164392&permissions=8&scope=bot
+[This bot is currently Unavalible]()
 
 ### Changelog
 
