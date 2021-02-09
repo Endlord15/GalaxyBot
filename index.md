@@ -8,7 +8,8 @@ This bot is currently Unavalible
 
 ### Changelog
 
-Here is the changelog: (Currently the bot is currently being worked on!)
+Here is the changelog:
+I just got the Discord bot ready and is almost done, soon it will be released!
 
 ### Social Media
 ```markdown
