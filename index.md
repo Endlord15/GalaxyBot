@@ -11,14 +11,12 @@ This bot is currently Unavalible
 Here is the changelog:
 I just got the Discord bot ready and is almost done, soon it will be released!
 
-### Social Media
-```markdown
-Youtube: https://www.bit.ly/Endlord15
-New Twitter: https://www.twitter.com/Ender18813839
-Discord: https://www.discord.gg/PpNAePu
-Insta: https://www.instagram.com/Endlord15
-Hey I have a Twitch: https://www.twitch.tv/endlord15_yt
-```
+## Social Media
+[Twitter](https://twitter.com/Ender18813839)
+[Youtube](https://bit.ly/Endlord15YT)
+[Insta](https://instagram.com/endlord15)
+[Discord Server](https://discord.gg/PpNAePu)
+[Github?](https://github.com/Endlord15)
 ### Support and Contact
 
 You can contact the owner of this bot, USERNAME: Ender ඞ#4886
